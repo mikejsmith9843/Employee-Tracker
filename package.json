@@ -1,0 +1,27 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Developing a command-line application to manage a company's employee database.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mikejsmith9843/employee-tracker.git"
+    },
+    "keywords": [
+        "node.js",
+        "inquirer",
+        "mysql"
+    ],
+    "author": "Mike Smith",
+    "bugs": {
+        "url": "hhtps://github.com/mikesmith9843/employee-tracker/issues"
+    },
+    "homepage": "https://github.com/mikejsmith9843/employee-tracker#readme",
+    "dependencies": {
+        "inquirer": "9.2.22",
+        "mysql": "2.18.1"
+    }
+}
