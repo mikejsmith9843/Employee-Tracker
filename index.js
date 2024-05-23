@@ -1,4 +1,4 @@
-// Variable Definitions & Dependencies
+// Variable Definitions & Dependenciesinde
 const inquirer = require('inquirer');
 const db = require('./db/connection');
 
