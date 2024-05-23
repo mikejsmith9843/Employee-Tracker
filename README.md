@@ -11,9 +11,13 @@ Node.js | Inquirer | MySQL
 Once Installed:
 
 1.Clone the Repository on to your machine.
+
 2.Open the terminal and ensure you are in the right file path.
+
 3.Run the command npm install to download the packages.
+
 4.Then run the command node index.js to run the software.
+
 5.The command prompt will begin on your terminal
 
 ## User Story
